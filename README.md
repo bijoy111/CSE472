@@ -24,5 +24,9 @@ This repository contains my implementation of all assignments of the sessional c
 - #### [Solution](/asm%204/solution)
 - #### [Report](/asm%204%2Freport/report_1905052.pdf)
 
+### Final Project: NeuroDetectNet: Advanced EEG Classification for Neurodegenerative Disease
+- #### [Proposal](/ML%20project/proposal)
+- #### [Base Papers](/ML%20project/base%20paper)
+- #### [Codes](/ML%20project/code)
 
 
